@@ -6,7 +6,7 @@ issues:
     This issue has been automatically marked as stale because it has not had
     recent activity. You can comment on this (or do anything else) to keep it open,
     otherwise it'll be automatically closed in two week. Thanks!
-  daysUntilStale: 90
+  daysUntilStale: 91
   daysUntilClose: 14
 
 pulls:
